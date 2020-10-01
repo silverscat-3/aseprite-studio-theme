@@ -1,10 +1,19 @@
 {
-  "name": "lyutrias-studio-theme",
-  "displayName": "Lyutria's Studio Theme",
+  "name": "lyutrias-studio-theme-ja",
+  "displayName": "Lyutria's Studio Theme with Japanese font",
   "description": "Smooth photoshop inspired theme for Aseprite",
-  "version": "1.2.12.1.2",
-  "author": { "name": "Lyutria", "email": "me@lyutria.com", "url": "http://lyutria.com" },
+  "version": "1.2.12-ja-1",
+  "author": {
+    "name": "Lyutria",
+    "email": "me@lyutria.com",
+    "url": "http://lyutria.com"
+  },
   "contributors": [
+    {
+      "name": "銀猫さん",
+      "email": "silverscat_3@mail.sc3.fun",
+      "url": "https://www.sc3.fun"
+    }
   ],
   "publisher": "Lyutria",
   "license": "CC-BY-4.0",
@@ -13,7 +22,10 @@
   ],
   "contributes": {
     "themes": [
-      { "id": "Studio", "path": "." }
+      {
+        "id": "Studio-j",
+        "path": "."
+      }
     ]
   }
 }

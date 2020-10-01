@@ -1,0 +1,20 @@
+= Studio for Aseprite with Japanese font
+銀猫さん <silverscat_3@mail.sc3.fun>
+
+Lyutria氏が作成したAsepriteテーマのStudioを日本語環境に最適化したものです。
+
+== Usage
+
+1. Run `git archive -o studio-theme.aseprite-extension HEAD`
+2. Go to `Edit -> Preferences -> Extensions`
+3. Click `Add Extension`
+4. Select the `studio-theme.aseprite-extension`
+
+== Credits
+* link:https://github.com/Lyutria/aseprite-studio-theme[Studio for Aseprite]
+
+Studio for Aseprite with Japanese font theme is based on the link:https://github.com/Lyutria/aseprite-studio-theme[Studio for Aseprite] theme designed by link:https://lyutria.com[Lyutria].
+
+* link:https://ja.osdn.net/projects/mix-mplus-ipa/releases/58930[PixelMplus]
+
+これらのフォントはフリー（自由な）ソフトウエアです。あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。

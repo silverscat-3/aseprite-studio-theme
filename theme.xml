@@ -4,15 +4,9 @@
         <author name="Lyutria" url="lyutria.com" />
     </authors>
     <fonts>
-        <!-- Want a TTF / High res font? VVVVVV -->
-        <!--  Delete this arrow > -->
-        <font id="default" font="Aseprite" size="6" />
-        <font id="mini" font="Aseprite" size="6" />
-        <!-- < And this arrow-->
-        <!-- Delete this line
-        <font id="default" name="ttf-font" type="truetype" file="Pixellari.ttf" size="8" />
-        <font id="mini" name="ttf-font" type="truetype" file="Pixellari.ttf" size="8" />
-             And this line -->
+        <!-- Japanese font -->
+        <font id="default" name="ttf-font" type="truetype" file="PixelMplus12-Regular.ttf" size="12" />
+        <font id="mini" name="ttf-font" type="truetype" file="PixelMplus12-Regular.ttff" size="6" />
     </fonts>
     <dimensions>
         <dim id="scrollbar_size" value="12" />
