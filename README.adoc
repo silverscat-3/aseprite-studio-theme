@@ -5,7 +5,7 @@ Lyutria氏が作成したAsepriteテーマのStudioを日本語環境に最適�
 
 == Usage
 
-1. Run `git archive -o studio-theme.aseprite-extension HEAD`
+1. Run `git archive --format zip -o studio-theme.aseprite-extension HEAD`
 2. Go to `Edit -> Preferences -> Extensions`
 3. Click `Add Extension`
 4. Select the `studio-theme.aseprite-extension`
